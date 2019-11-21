@@ -26,7 +26,41 @@
 
 <b>淘宝ip(可在线调用)</b>:来自淘宝的ip查询，可以根据ip地址查询...——<a href="https://www.free-api.com/doc/256">接口地址</a><br><b>360ip(可在线调用)</b>:来自360的ip查询，可以根据ip地址查...——<a href="https://www.free-api.com/doc/257">接口地址</a><br><b>地理编码(可在线调用)</b>:将详细的结构化地址转换为高德经纬度坐标。...——<a href="https://www.free-api.com/doc/258">接口地址</a><br><b>逆地理编码(可在线调用)</b>:将经纬度转换为详细结构化的地址，且返回附...——<a href="https://www.free-api.com/doc/259">接口地址</a><br><b>步行路径规划</b>:可以规划100KM以内的步行通勤方案，并...——<a href="https://www.free-api.com/doc/260">接口地址</a><br><b>驾车路径规划(可在线调用)</b>:规划以小客车、轿车通勤出行的方案，并且返...——<a href="https://www.free-api.com/doc/261">接口地址</a><br><b>公交路径规划</b>:规划综合各类公共（火车、公交、地铁）交通...——<a href="https://www.free-api.com/doc/262">接口地址</a><br><b>骑行路径规划(可在线调用)</b>:用于规划骑行通勤方案，规划时不会考虑路况...——<a href="https://www.free-api.com/doc/263">接口地址</a><br><b>距离测量</b>:根据经纬度测量距离——<a href="https://www.free-api.com/doc/264">接口地址</a><br><b>行政区域查询(可在线调用)</b>:根据用户输入的搜索条件可以帮助用户快速的...——<a href="https://www.free-api.com/doc/265">接口地址</a><br><b>矩形区域交通态势</b>:能够确定矩形交通态势情况，路况信息2分钟...——<a href="https://www.free-api.com/doc/266">接口地址</a><br><b>圆形区域交通态势</b>:能够确定圆形交通态势情况，路况信息2分钟...——<a href="https://www.free-api.com/doc/267">接口地址</a><br><b>指定线路交通态势</b>:能够确定指定线路交通情况，路况信息2分钟...——<a href="https://www.free-api.com/doc/268">接口地址</a><br><b>输入提示(可在线调用)</b>:提供根据用户输入的关键词查询返回建议列表——<a href="https://www.free-api.com/doc/269">接口地址</a><br><b>天气查询(可在线调用)</b>:查询目标区域当前/未来的天气情况——<a href="https://www.free-api.com/doc/270">接口地址</a><br><b>IP定位(可在线调用)</b>:将IP信息转换为地理位置信息——<a href="https://www.free-api.com/doc/271">接口地址</a><br><b>地点范围查询(可在线调用)</b>:根据经纬度查询查询其地址相关信息——<a href="https://www.free-api.com/doc/272">接口地址</a>
 
+----------
+
+
+2019.9.9更新接口
+
 
 ----------
+
+<b>行政区划区域检索(可在线调用)</b>:开发者可通过该功能，检索某一行政区划内（...——<a href="https://www.free-api.com/doc/273">接口地址</a><br><b>圆形区域检索(可在线调用)</b>:开发者可设置圆心和半径，检索圆形区域内的...——<a href="https://www.free-api.com/doc/274">接口地址</a><br><b>矩形区域检索(可在线调用)</b>:开发者可设置检索区域左下角和右上角坐标，...——<a href="https://www.free-api.com/doc/275">接口地址</a><br><b>地点详情检索(可在线调用)</b>:地点详情检索针对指定POI，检索其相关的...——<a href="https://www.free-api.com/doc/276">接口地址</a><br><b>地点输入提示(可在线调用)</b>:用户可通过该服务，匹配用户输入关键词的地...——<a href="https://www.free-api.com/doc/277">接口地址</a><br><b>地理编码服务(可在线调用)</b>:用户可通过该功能，将结构化地址（省/市/...——<a href="https://www.free-api.com/doc/278">接口地址</a><br><b>全球逆地理编码(可在线调用)</b>:用户可通过该功能，将位置坐标解析成对应的...——<a href="https://www.free-api.com/doc/279">接口地址</a><br><b>公交路线规划(可在线调用)</b>:根据起点和终点检索符合条件的公共交通方案...——<a href="https://www.free-api.com/doc/280">接口地址</a><br><b>骑行路线规划(可在线调用)</b>:根据起终点坐标检索符合条件的骑行路线规划...——<a href="https://www.free-api.com/doc/281">接口地址</a><br><b>驾车路线规划(可在线调用)</b>:根据起终点坐标检索符合条件的驾车路线规划...——<a href="https://www.free-api.com/doc/282">接口地址</a><br><b>批量算路</b>:用户可通过该服务，根据起点和终点坐标计算...——<a href="https://www.free-api.com/doc/283">接口地址</a><br><b>普通IP定位(可在线调用)</b>:用户可以通过该服务，根据IP定位来获取大...——<a href="https://www.free-api.com/doc/284">接口地址</a><br><b>道路实时路况查询(可在线调用)</b>:查询具体道路的实时拥堵评价和拥堵路段、拥...——<a href="https://www.free-api.com/doc/285">接口地址</a><br><b>时间偏移查询(可在线调用)</b>:查询坐标所在地与协调世界时的时间偏移信息...——<a href="https://www.free-api.com/doc/286">接口地址</a><br><b>周边上车点推荐(可在线调用)</b>:用户可通过该功能检索坐标点周围的上车点。...——<a href="https://www.free-api.com/doc/287">接口地址</a><br><b>非百度坐标系转换(可在线调用)</b>:用户可通过该服务，实现 非百度坐标系→百...——<a href="https://www.free-api.com/doc/288">接口地址</a><br><b>快递查询(可在线调用)</b>:可根据快递单号查询大部分主流快递的快递信...——<a href="https://www.free-api.com/doc/289">接口地址</a><br><b>文件转换</b>:文件转换成指定格式，成功则返回成功转换的...——<a href="https://www.free-api.com/doc/290">接口地址</a><br><b>获取文件转换内容</b>:根据文件转换成功所获取的id，查询转换成...——<a href="https://www.free-api.com/doc/291">接口地址</a>
+
+----------
+
+
+2019.10.8更新接口
+
+
+----------
+
+
+<b>全球IP地理位置(可在线调用)</b>:单个IPv4 / IPv6地址或域名...——<a href="https://www.free-api.com/doc/292">接口地址</a><br><b>域名备案(可在线调用)</b>:根据域名查询域名备案状态——<a href="https://www.free-api.com/doc/293">接口地址</a><br><b>十五天天气预报</b>:采用城市ID来精准查询15天内的天气，接...——<a href="https://www.free-api.com/doc/294">接口地址</a><br><b>农历查询(可在线调用)</b>:根据日期获取农历、黄历、禁忌、星期、生肖...——<a href="https://www.free-api.com/doc/295">接口地址</a><br><b>ICP备案查询(可在线调用)</b>:根据域名查询ICP备案号——<a href="https://www.free-api.com/doc/296">接口地址</a><br><b>三合一收款二维码</b>:将QQ、微信、支付宝收款集合到一起，省去...——<a href="https://www.free-api.com/doc/297">接口地址</a><br><b>二维码生成</b>:将网址直接转换成二维码图片——<a href="https://www.free-api.com/doc/298">接口地址</a><br><b>二维码解码(可在线调用)</b>:将二维码图片进行解码，解析处理——<a href="https://www.free-api.com/doc/299">接口地址</a><br><b>短网址生成(可在线调用)</b>:将长网址进行缩短，支持百度、新浪、腾讯短...——<a href="https://www.free-api.com/doc/300">接口地址</a><br><b>短网址还原(可在线调用)</b>:将缩短的短网址进行还原,支持常见的短网址——<a href="https://www.free-api.com/doc/301">接口地址</a><br><b>网易云音乐随机歌曲(可在线调用)</b>:网易云音乐，随机歌曲输出——<a href="https://www.free-api.com/doc/302">接口地址</a><br><b>获取访客相关信息(可在线调用)</b>:根据访客IP地址，操作系统，浏览器，访问...——<a href="https://www.free-api.com/doc/303">接口地址</a><br><b>随机头像输出(可在线调用)</b>:随机头像输出——<a href="https://www.free-api.com/doc/304">接口地址</a>
+
+
+----------
+
+
+2019.11.5更新接口
+
+
+----------
+
+
+<b>文章短篇</b>:根据日期获取一篇文章，有网上的，也有名家...——<a href="https://www.free-api.com/doc/305">接口地址</a><br><b>必应故事</b>:随机获取来自必应的故事，可根据pid获取...——<a href="https://www.free-api.com/doc/306">接口地址</a><br><b>每日一言</b>:获取来自一言、有道或金山词霸的每日一言内...——<a href="https://www.free-api.com/doc/307">接口地址</a><br><b>二维码解析</b>:还原二维码的原始URL，支持支付宝，微信...——<a href="https://www.free-api.com/doc/308">接口地址</a><br><b>生成海报</b>:根据提交的内容格式化生成可分享的精美海报——<a href="https://www.free-api.com/doc/309">接口地址</a><br><b>历史上的今天</b>:历史上的今天——<a href="https://www.free-api.com/doc/310">接口地址</a><br><b>生成二维码</b>:可根据传入的内容，生成对应的二维码，还可...——<a href="https://www.free-api.com/doc/311">接口地址</a><br><b>IP地址详情信息</b>:IP地址详情信息查询——<a href="https://www.free-api.com/doc/312">接口地址</a><br><b>XLS生成</b>:生成XLS——<a href="https://www.free-api.com/doc/313">接口地址</a><br><b>土味情话</b>:和妹妹说的情话，返回一句随机的内容——<a href="https://www.free-api.com/doc/314">接口地址</a><br><b>随机笑话(可在线调用)</b>:随机的笑话——<a href="https://www.free-api.com/doc/315">接口地址</a>
+
+
+----------
+
 
 努力添加中......
